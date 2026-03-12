@@ -1,6 +1,7 @@
 # 📊 KPI & SLA Operations Performance Analytics Dashboard
 
-![Dashboard Preview](images/executive_overview.png)
+![Dashboard Preview]<img width="906" height="753" alt="executive_overview" src="https://github.com/user-attachments/assets/339afb7e-4674-417b-a791-b9116108dd7b" />
+
 
 ---
 
@@ -31,7 +32,8 @@ The dashboard helps monitor:
 
 ## Executive Operations Overview
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview]<img width="906" height="753" alt="executive_overview" src="https://github.com/user-attachments/assets/f7f40207-eddb-4c9b-b260-3e09d4011f2e" />
+
 
 Displays key operational metrics including:
 
@@ -45,7 +47,8 @@ Displays key operational metrics including:
 
 ## SLA Performance Analysis
 
-![SLA Analysis](images/sla_analysis.png)
+![SLA Analysis]<img width="905" height="750" alt="sla_analysis" src="https://github.com/user-attachments/assets/162daa5d-8141-4cc9-9f35-76429705f018" />
+
 
 Analyzes service performance including:
 
@@ -58,7 +61,8 @@ Analyzes service performance including:
 
 ## Workforce Productivity & Customer Insights
 
-![Workforce Productivity](images/workforce_productivity.png)
+![Workforce Productivity]<img width="902" height="747" alt="workforce_productivity" src="https://github.com/user-attachments/assets/fcad0f97-19c4-448e-9058-70aee67e1632" />
+
 
 Focuses on workforce efficiency including:
 
