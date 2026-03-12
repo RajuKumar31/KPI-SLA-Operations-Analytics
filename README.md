@@ -1,5 +1,10 @@
 # 📊 KPI & SLA Operations Performance Analytics Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-lightgrey)
+![Excel](https://img.shields.io/badge/Excel-Dataset-green)
+
 ![Dashboard Preview]<img width="906" height="753" alt="executive_overview" src="https://github.com/user-attachments/assets/339afb7e-4674-417b-a791-b9116108dd7b" />
 
 
